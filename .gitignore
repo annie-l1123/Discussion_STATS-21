@@ -1,0 +1,9 @@
+# Solutions
+Discussion Solutions/
+*Solutions/
+*solutions/
+
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
